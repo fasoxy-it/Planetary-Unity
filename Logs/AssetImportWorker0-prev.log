@@ -254,3 +254,4 @@ Received Import Request.
   path: Assets/Models/mercury.dae
   artifactKey: Guid(aab3c4383777e4ca08aac6489a806cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/mercury.dae using Guid(aab3c4383777e4ca08aac6489a806cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb1962c47d112790d059662cecec93a') in 0.026926 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
