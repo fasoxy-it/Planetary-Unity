@@ -52,12 +52,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\SetupScene.cs" />
      <Compile Include="Assets\Scripts\Singleton.cs" />
      <Compile Include="Assets\Scripts\Sound Manager\MusicManager.cs" />
      <Compile Include="Assets\Scripts\Sound Manager\SfxManager.cs" />
      <Compile Include="Assets\Scripts\RotateAndOrbit.cs" />
      <Compile Include="Assets\Scripts\PlanetsClasses.cs" />
-     <Compile Include="Assets\Scripts\SetupScene.cs" />
      <Compile Include="Assets\Scripts\CameraDragAndMove.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
